@@ -7,6 +7,8 @@
 
 - 📄 Know about my experiences [https://bit.ly/panducahyo_resume](https://bit.ly/panducahyo_resume)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/pandusudo?theme=dark&font=Antic&ext=heatmap)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pandusudo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pandusudo" height="30" width="40" /></a>
