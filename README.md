@@ -19,7 +19,7 @@
 &nbsp;
 &nbsp;
 
-<h1 align="center">I practice LeetCode as well!!! 🚀🚀🚀</h1>
+<h1 align="center">I Practice LeetCode as Well! 🚀🚀🚀</h1>
 
 <a href="https://leetcode.com/pandusudo/">
   <img align="center" src="https://leetcard.jacoblin.cool/pandusudo?theme=dark&font=Antic&ext=heatmap" />
