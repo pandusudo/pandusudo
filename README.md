@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pandu</h1>
-<h3 align="center">Backend and fullstack developer, building cool stuff online from Indonesia 🇮🇩</h3>
+<h3 align="center">Software engineer, building cool stuff online from Indonesia 🇮🇩</h3>
 
 - 🌱 I’m currently learning **Golang for Backend development and Next.js for Frontend development**
 
@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://bit.ly/panducahyo_resume](https://bit.ly/panducahyo_resume)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Follow my socials:</h3>
 <p align="left">
 <a href="https://twitter.com/pandusudo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pandusudo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pandu-cahyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pandu-cahyo" height="30" width="40" /></a>
