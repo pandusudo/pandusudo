@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pandu</h1>
 <h3 align="center">Software engineer, building cool stuff online from Indonesia 🇮🇩</h3>
 
-- 🌱 I’m currently learning **Golang for Backend development and Next.js for Frontend development**
+- 🌱 Tech stack: **Golang, Node.js, and Bun for Backend development. React and Next.js for Frontend development**
 
-- 📫 How to reach me **pandusudo@gmail.com or you can DM me on twitter**
+- 📫 Contact: **pandusudo@gmail.com or DM me on twitter**
 
-- 📄 Know about my experiences [https://bit.ly/panducahyo_resume](https://bit.ly/panducahyo_resume)
+- 📄 Portfolio: [pandusudo.xyz](https://pandusudo.xyz)
 
 <h3 align="left">Follow my socials:</h3>
 <p align="left">
